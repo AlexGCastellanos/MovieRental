@@ -1,0 +1,13 @@
+.bg-login-imagen{
+    background: url("../img/bg-login.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+    border: 0px;
+}
+
+.sizeDiv{
+    
+    width: 40vw;
+    
+}
